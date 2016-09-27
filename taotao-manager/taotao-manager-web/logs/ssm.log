@@ -1,0 +1,1594 @@
+[INFO] [2016-08-27 11:55:24][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-dao.xml]
+  [INFO] [2016-08-27 11:55:24][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-service.xml]
+  [INFO] [2016-08-27 11:55:24][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-trans.xml]
+  [INFO] [2016-08-27 11:55:24][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@6fa38a: startup date [Sat Aug 27 11:55:24 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-27 11:55:25][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-08-27 11:55:25][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-08-27 11:55:26][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-08-27 11:55:26][test.TestPageHelper]536563,new2 - ÈòøÂ∞îÂç°Áâπ (OT-927) ÁÇ≠Èªë ËÅîÈÄö3GÊâãÊú∫ ÂèåÂç°ÂèåÂæÖ
+  [INFO] [2016-08-27 11:55:26][test.TestPageHelper]562379,new8- ‰∏âÊòü W999 ÈªëËâ≤ Áîµ‰ø°3GÊâãÊú∫ ÂèåÂç°ÂèåÂæÖÂèåÈÄö
+  [INFO] [2016-08-27 11:55:26][test.TestPageHelper]605616,ÈòøÂ∞îÂç°Áâπ (OT-979) ÂÜ∞Â∑ùÁôΩ ËÅîÈÄö3GÊâãÊú∫
+  [INFO] [2016-08-27 11:55:26][test.TestPageHelper]635906,ÈòøÂ∞îÂç°Áâπ (OT-927) ÂçïÁîµÁâà ÁÇ≠Èªë ËÅîÈÄö3GÊâãÊú∫ ÂèåÂç°ÂèåÂæÖ
+  [INFO] [2016-08-27 11:55:26][test.TestPageHelper]679532,ÈòøÂ∞îÂç°Áâπ (OT-986+) Áé´Á∫¢ AK47 Âä†Âº∫Áâà ËÅîÈÄö3GÊâãÊú∫
+  [INFO] [2016-08-27 11:55:26][test.TestPageHelper]679533,ÈòøÂ∞îÂç°Áâπ (OT-986+) ÊõúÁü≥Èªë AK47 Âä†Âº∫Áâà ËÅîÈÄö3GÊâãÊú∫
+  [INFO] [2016-08-27 11:55:26][test.TestPageHelper]691300,‰∏âÊòü B9120 ÈíõÁÅ∞Ëâ≤ ËÅîÈÄö3GÊâãÊú∫ ÂèåÂç°ÂèåÂæÖÂèåÈÄö
+  [INFO] [2016-08-27 11:55:26][test.TestPageHelper]738388,‰∏âÊòü Note II (N7100) ‰∫ëÁü≥ÁôΩ ËÅîÈÄö3GÊâãÊú∫
+  [INFO] [2016-08-27 11:55:26][test.TestPageHelper]741524,‰∏âÊòü Note II (N7100) ÈíõÈáëÁÅ∞ ËÅîÈÄö3GÊâãÊú∫
+  [INFO] [2016-08-27 11:55:26][test.TestPageHelper]816448,‰∏âÊòü Note II (N7100) ÈíªÁü≥Á≤â ËÅîÈÄö3GÊâãÊú∫
+  [INFO] [2016-08-27 11:55:26][test.TestPageHelper]ËÆ∞ÂΩïÊù°Êï∞Ôºö3096
+  [INFO] [2016-08-27 11:55:26][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@6fa38a: startup date [Sat Aug 27 11:55:24 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-27 11:55:26][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+  [INFO] [2016-08-27 12:15:12][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-dao.xml]
+  [INFO] [2016-08-27 12:15:12][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-service.xml]
+  [INFO] [2016-08-27 12:15:12][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-trans.xml]
+  [INFO] [2016-08-27 12:15:12][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@149cea0: startup date [Sat Aug 27 12:15:12 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-27 12:15:12][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-08-27 12:15:12][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-08-27 12:15:13][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-08-27 12:15:13][test.TestPageHelper]536563,new2 - ∞¢∂˚ø®Ãÿ (OT-927) Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-08-27 12:15:13][test.TestPageHelper]562379,new8- »˝–« W999 ∫⁄…´ µÁ–≈3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-08-27 12:15:13][test.TestPageHelper]605616,∞¢∂˚ø®Ãÿ (OT-979) ±˘¥®∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 12:15:13][test.TestPageHelper]635906,∞¢∂˚ø®Ãÿ (OT-927) µ•µÁ∞Ê Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-08-27 12:15:13][test.TestPageHelper]679532,∞¢∂˚ø®Ãÿ (OT-986+) √µ∫Ï AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 12:15:13][test.TestPageHelper]679533,∞¢∂˚ø®Ãÿ (OT-986+) Í◊ Ø∫⁄ AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 12:15:13][test.TestPageHelper]691300,»˝–« B9120 Ó—ª“…´ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-08-27 12:15:13][test.TestPageHelper]738388,»˝–« Note II (N7100) ‘∆ Ø∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 12:15:13][test.TestPageHelper]741524,»˝–« Note II (N7100) Ó—Ωª“ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 12:15:13][test.TestPageHelper]816448,»˝–« Note II (N7100) ◊Í Ø∑€ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 12:15:13][test.TestPageHelper]º«¬ºÃı ˝£∫3096
+  [INFO] [2016-08-27 12:15:13][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@149cea0: startup date [Sat Aug 27 12:15:12 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-27 12:15:13][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+  [INFO] [2016-08-27 15:13:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-dao.xml]
+  [INFO] [2016-08-27 15:13:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-service.xml]
+  [INFO] [2016-08-27 15:13:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-trans.xml]
+  [INFO] [2016-08-27 15:13:57][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@149cea0: startup date [Sat Aug 27 15:13:57 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-27 15:13:57][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-08-27 15:13:57][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-08-27 15:13:58][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:13:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:14:29][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:14:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:15:29][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:15:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:16:29][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:16:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:17:29][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:17:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:18:29][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:18:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:19:29][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:19:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:20:29][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:20:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:21:29][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:21:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:22:29][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:22:59][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[ERROR] [2016-08-27 15:23:29][com.alibaba.druid.pool.DruidDataSource]create connection error, url: jdbc:mysql://localhost:3306/taotao?characterEncoding=utf-8
+  java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4208)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4140)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:925)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1747)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1287)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2494)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1861)
+[INFO] [2016-08-27 15:30:19][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-dao.xml]
+  [INFO] [2016-08-27 15:30:19][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-service.xml]
+  [INFO] [2016-08-27 15:30:19][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-trans.xml]
+  [INFO] [2016-08-27 15:30:19][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@149cea0: startup date [Sat Aug 27 15:30:19 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-27 15:30:19][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-08-27 15:30:19][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-08-27 15:30:20][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-08-27 15:30:20][test.TestPageHelper]536563,new2 - ∞¢∂˚ø®Ãÿ (OT-927) Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-08-27 15:30:20][test.TestPageHelper]562379,new8- »˝–« W999 ∫⁄…´ µÁ–≈3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-08-27 15:30:20][test.TestPageHelper]605616,∞¢∂˚ø®Ãÿ (OT-979) ±˘¥®∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 15:30:20][test.TestPageHelper]635906,∞¢∂˚ø®Ãÿ (OT-927) µ•µÁ∞Ê Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-08-27 15:30:20][test.TestPageHelper]679532,∞¢∂˚ø®Ãÿ (OT-986+) √µ∫Ï AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 15:30:20][test.TestPageHelper]679533,∞¢∂˚ø®Ãÿ (OT-986+) Í◊ Ø∫⁄ AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 15:30:20][test.TestPageHelper]691300,»˝–« B9120 Ó—ª“…´ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-08-27 15:30:20][test.TestPageHelper]738388,»˝–« Note II (N7100) ‘∆ Ø∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 15:30:20][test.TestPageHelper]741524,»˝–« Note II (N7100) Ó—Ωª“ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 15:30:20][test.TestPageHelper]816448,»˝–« Note II (N7100) ◊Í Ø∑€ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-27 15:30:20][test.TestPageHelper]º«¬ºÃı ˝£∫3096
+  [INFO] [2016-08-27 15:30:20][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@149cea0: startup date [Sat Aug 27 15:30:19 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-27 15:30:20][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+  [INFO] [2016-08-28 00:08:48][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-dao.xml]
+  [INFO] [2016-08-28 00:08:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-service.xml]
+  [INFO] [2016-08-28 00:08:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-trans.xml]
+  [INFO] [2016-08-28 00:08:49][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Sun Aug 28 00:08:49 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-28 00:08:49][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-08-28 00:08:49][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-08-28 00:08:50][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-08-28 00:08:50][test.TestPageHelper]536563,new2 - ∞¢∂˚ø®Ãÿ (OT-927) Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-08-28 00:08:50][test.TestPageHelper]562379,new8- »˝–« W999 ∫⁄…´ µÁ–≈3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-08-28 00:08:50][test.TestPageHelper]605616,∞¢∂˚ø®Ãÿ (OT-979) ±˘¥®∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:08:50][test.TestPageHelper]635906,∞¢∂˚ø®Ãÿ (OT-927) µ•µÁ∞Ê Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-08-28 00:08:50][test.TestPageHelper]679532,∞¢∂˚ø®Ãÿ (OT-986+) √µ∫Ï AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:08:50][test.TestPageHelper]679533,∞¢∂˚ø®Ãÿ (OT-986+) Í◊ Ø∫⁄ AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:08:50][test.TestPageHelper]691300,»˝–« B9120 Ó—ª“…´ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-08-28 00:08:50][test.TestPageHelper]738388,»˝–« Note II (N7100) ‘∆ Ø∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:08:50][test.TestPageHelper]741524,»˝–« Note II (N7100) Ó—Ωª“ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:08:50][test.TestPageHelper]816448,»˝–« Note II (N7100) ◊Í Ø∑€ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:08:50][test.TestPageHelper]º«¬ºÃı ˝£∫3096
+  [INFO] [2016-08-28 00:08:50][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Sun Aug 28 00:08:49 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-28 00:08:50][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+  [INFO] [2016-08-28 00:10:46][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-dao.xml]
+  [INFO] [2016-08-28 00:10:46][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-service.xml]
+  [INFO] [2016-08-28 00:10:46][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-trans.xml]
+  [INFO] [2016-08-28 00:10:46][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Sun Aug 28 00:10:46 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-28 00:10:46][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-08-28 00:10:46][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-08-28 00:10:47][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-08-28 00:10:47][test.TestPageHelper]536563,new2 - ∞¢∂˚ø®Ãÿ (OT-927) Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-08-28 00:10:47][test.TestPageHelper]562379,new8- »˝–« W999 ∫⁄…´ µÁ–≈3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-08-28 00:10:47][test.TestPageHelper]605616,∞¢∂˚ø®Ãÿ (OT-979) ±˘¥®∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:10:47][test.TestPageHelper]635906,∞¢∂˚ø®Ãÿ (OT-927) µ•µÁ∞Ê Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-08-28 00:10:47][test.TestPageHelper]679532,∞¢∂˚ø®Ãÿ (OT-986+) √µ∫Ï AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:10:47][test.TestPageHelper]679533,∞¢∂˚ø®Ãÿ (OT-986+) Í◊ Ø∫⁄ AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:10:47][test.TestPageHelper]691300,»˝–« B9120 Ó—ª“…´ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-08-28 00:10:47][test.TestPageHelper]738388,»˝–« Note II (N7100) ‘∆ Ø∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:10:47][test.TestPageHelper]741524,»˝–« Note II (N7100) Ó—Ωª“ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:10:47][test.TestPageHelper]816448,»˝–« Note II (N7100) ◊Í Ø∑€ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:10:47][test.TestPageHelper]º«¬ºÃı ˝£∫3096
+  [INFO] [2016-08-28 00:10:47][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Sun Aug 28 00:10:46 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-28 00:10:47][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+  [INFO] [2016-08-28 00:11:12][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-dao.xml]
+  [INFO] [2016-08-28 00:11:12][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-service.xml]
+  [INFO] [2016-08-28 00:11:12][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-trans.xml]
+  [INFO] [2016-08-28 00:11:12][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Sun Aug 28 00:11:12 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-28 00:11:12][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-08-28 00:11:12][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-08-28 00:11:13][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-08-28 00:11:14][test.TestPageHelper]536563,new2 - ∞¢∂˚ø®Ãÿ (OT-927) Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-08-28 00:11:14][test.TestPageHelper]562379,new8- »˝–« W999 ∫⁄…´ µÁ–≈3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-08-28 00:11:14][test.TestPageHelper]605616,∞¢∂˚ø®Ãÿ (OT-979) ±˘¥®∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:11:14][test.TestPageHelper]635906,∞¢∂˚ø®Ãÿ (OT-927) µ•µÁ∞Ê Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-08-28 00:11:14][test.TestPageHelper]679532,∞¢∂˚ø®Ãÿ (OT-986+) √µ∫Ï AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:11:14][test.TestPageHelper]679533,∞¢∂˚ø®Ãÿ (OT-986+) Í◊ Ø∫⁄ AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:11:14][test.TestPageHelper]691300,»˝–« B9120 Ó—ª“…´ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-08-28 00:11:14][test.TestPageHelper]738388,»˝–« Note II (N7100) ‘∆ Ø∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:11:14][test.TestPageHelper]741524,»˝–« Note II (N7100) Ó—Ωª“ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:11:14][test.TestPageHelper]816448,»˝–« Note II (N7100) ◊Í Ø∑€ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-08-28 00:11:14][test.TestPageHelper]º«¬ºÃı ˝£∫3096
+  [INFO] [2016-08-28 00:11:14][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Sun Aug 28 00:11:12 CST 2016]; root of context hierarchy
+  [INFO] [2016-08-28 00:11:14][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+  [INFO] [2016-09-14 00:17:50][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+  [INFO] [2016-09-14 00:17:50][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Wed Sep 14 00:17:50 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:17:50][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:17:50][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-service.xml]
+  [INFO] [2016-09-14 00:17:50][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:17:50][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:17:50][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:17:50][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:17:51][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 1205 ms
+  [INFO] [2016-09-14 00:17:51][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization started
+  [INFO] [2016-09-14 00:17:51][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:17:51 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:17:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring/springmvc.xml]
+  [INFO] [2016-09-14 00:17:51][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:17:51][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.ContentCatController.getContentCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:17:51][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/create],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.insertContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:17:51][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/update],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.updateContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:17:51][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/{itemId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.pojo.TbItem com.taotao.controller.ItemController.getItemById(java.lang.Long)
+  [INFO] [2016-09-14 00:17:51][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.pojo.EUDataGridResult com.taotao.controller.ItemController.getItemList(int,int)
+  [INFO] [2016-09-14 00:17:51][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/{page}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showPage(java.lang.String)
+  [INFO] [2016-09-14 00:17:51][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showIndex()
+  [INFO] [2016-09-14 00:17:51][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/cat/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.TbItemCatController.getCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:17:52][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:17:51 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:17:52][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:17:51 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:17:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2016-09-14 00:17:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+  [INFO] [2016-09-14 00:17:52][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization completed in 719 ms
+  [INFO] [2016-09-14 00:19:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:19:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-service.xml]
+  [INFO] [2016-09-14 00:19:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:19:51][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Wed Sep 14 00:19:51 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:19:52][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:19:52][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:19:53][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-09-14 00:19:53][test.TestPageHelper]536563,new2 - ∞¢∂˚ø®Ãÿ (OT-927) Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-09-14 00:19:53][test.TestPageHelper]562379,new8- »˝–« W999 ∫⁄…´ µÁ–≈3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-09-14 00:19:53][test.TestPageHelper]605616,∞¢∂˚ø®Ãÿ (OT-979) ±˘¥®∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:19:53][test.TestPageHelper]635906,∞¢∂˚ø®Ãÿ (OT-927) µ•µÁ∞Ê Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-09-14 00:19:53][test.TestPageHelper]679532,∞¢∂˚ø®Ãÿ (OT-986+) √µ∫Ï AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:19:53][test.TestPageHelper]679533,∞¢∂˚ø®Ãÿ (OT-986+) Í◊ Ø∫⁄ AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:19:53][test.TestPageHelper]691300,»˝–« B9120 Ó—ª“…´ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-09-14 00:19:53][test.TestPageHelper]738388,»˝–« Note II (N7100) ‘∆ Ø∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:19:53][test.TestPageHelper]741524,»˝–« Note II (N7100) Ó—Ωª“ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:19:53][test.TestPageHelper]816448,»˝–« Note II (N7100) ◊Í Ø∑€ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:19:53][test.TestPageHelper]º«¬ºÃı ˝£∫3096
+  [INFO] [2016-09-14 00:19:53][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Wed Sep 14 00:19:51 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:19:53][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+  [INFO] [2016-09-14 00:20:25][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+  [INFO] [2016-09-14 00:20:25][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Wed Sep 14 00:20:25 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:20:25][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:20:25][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-service.xml]
+  [INFO] [2016-09-14 00:20:25][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:20:25][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:20:25][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:20:26][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:20:26][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 1154 ms
+  [INFO] [2016-09-14 00:20:26][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization started
+  [INFO] [2016-09-14 00:20:26][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:20:26 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:20:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring/springmvc.xml]
+  [INFO] [2016-09-14 00:20:26][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/update],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.updateContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/create],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.insertContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.ContentCatController.getContentCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.pojo.EUDataGridResult com.taotao.controller.ItemController.getItemList(int,int)
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/{itemId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.pojo.TbItem com.taotao.controller.ItemController.getItemById(java.lang.Long)
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/{page}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showPage(java.lang.String)
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showIndex()
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/cat/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.TbItemCatController.getCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:20:26 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:20:26 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+  [INFO] [2016-09-14 00:20:27][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization completed in 699 ms
+  [INFO] [2016-09-14 00:36:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:36:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-service.xml]
+  [INFO] [2016-09-14 00:36:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:36:26][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Wed Sep 14 00:36:26 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:36:26][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:36:26][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:36:27][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-09-14 00:36:28][test.TestPageHelper]536563,new2 - ∞¢∂˚ø®Ãÿ (OT-927) Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-09-14 00:36:28][test.TestPageHelper]562379,new8- »˝–« W999 ∫⁄…´ µÁ–≈3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-09-14 00:36:28][test.TestPageHelper]605616,∞¢∂˚ø®Ãÿ (OT-979) ±˘¥®∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:36:28][test.TestPageHelper]635906,∞¢∂˚ø®Ãÿ (OT-927) µ•µÁ∞Ê Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-09-14 00:36:28][test.TestPageHelper]679532,∞¢∂˚ø®Ãÿ (OT-986+) √µ∫Ï AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:36:28][test.TestPageHelper]679533,∞¢∂˚ø®Ãÿ (OT-986+) Í◊ Ø∫⁄ AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:36:28][test.TestPageHelper]691300,»˝–« B9120 Ó—ª“…´ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-09-14 00:36:28][test.TestPageHelper]738388,»˝–« Note II (N7100) ‘∆ Ø∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:36:28][test.TestPageHelper]741524,»˝–« Note II (N7100) Ó—Ωª“ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:36:28][test.TestPageHelper]816448,»˝–« Note II (N7100) ◊Í Ø∑€ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:36:28][test.TestPageHelper]º«¬ºÃı ˝£∫3096
+  [INFO] [2016-09-14 00:36:28][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Wed Sep 14 00:36:26 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:36:28][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+  [INFO] [2016-09-14 00:36:47][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+  [INFO] [2016-09-14 00:36:48][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Wed Sep 14 00:36:48 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:36:48][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:36:48][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-service.xml]
+  [INFO] [2016-09-14 00:36:48][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:36:48][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:36:48][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:36:48][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 1134 ms
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization started
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:36:49 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:36:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring/springmvc.xml]
+  [INFO] [2016-09-14 00:36:49][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.ContentCatController.getContentCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/create],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.insertContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/update],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.updateContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/{itemId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.pojo.TbItem com.taotao.controller.ItemController.getItemById(java.lang.Long)
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.pojo.EUDataGridResult com.taotao.controller.ItemController.getItemList(int,int)
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/{page}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showPage(java.lang.String)
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showIndex()
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/cat/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.TbItemCatController.getCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:36:49 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:36:49 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+  [INFO] [2016-09-14 00:36:49][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization completed in 649 ms
+  [INFO] [2016-09-14 00:42:57][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+  [INFO] [2016-09-14 00:42:57][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Wed Sep 14 00:42:57 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:42:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:42:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-service.xml]
+  [INFO] [2016-09-14 00:42:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:42:57][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:42:57][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:42:57][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 1088 ms
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization started
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:42:58 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:42:58][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring/springmvc.xml]
+  [INFO] [2016-09-14 00:42:58][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/update],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.updateContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/create],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.insertContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.ContentCatController.getContentCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/{itemId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.pojo.TbItem com.taotao.controller.ItemController.getItemById(java.lang.Long)
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.pojo.EUDataGridResult com.taotao.controller.ItemController.getItemList(int,int)
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/{page}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showPage(java.lang.String)
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showIndex()
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/cat/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.TbItemCatController.getCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:42:58 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:42:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:42:58 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:42:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2016-09-14 00:42:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+  [INFO] [2016-09-14 00:42:59][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization completed in 649 ms
+  [INFO] [2016-09-14 00:43:16][com.taotao.aop.LogInvocation]log before:getItemList
+  [INFO] [2016-09-14 00:43:17][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-09-14 00:43:17][com.taotao.aop.LogInvocation]log after:getItemList
+  [INFO] [2016-09-14 00:45:15][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+  [INFO] [2016-09-14 00:45:15][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Wed Sep 14 00:45:15 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:45:15][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:45:15][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-service.xml]
+  [INFO] [2016-09-14 00:45:15][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:45:15][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:45:15][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:45:15][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:45:16][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 1043 ms
+  [INFO] [2016-09-14 00:45:16][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization started
+  [INFO] [2016-09-14 00:45:16][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:45:16 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:45:16][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring/springmvc.xml]
+  [INFO] [2016-09-14 00:45:16][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:45:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.ContentCatController.getContentCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:45:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/create],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.insertContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:45:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/update],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.updateContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:45:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.pojo.EUDataGridResult com.taotao.controller.ItemController.getItemList(int,int)
+  [INFO] [2016-09-14 00:45:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/{itemId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.pojo.TbItem com.taotao.controller.ItemController.getItemById(java.lang.Long)
+  [INFO] [2016-09-14 00:45:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/{page}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showPage(java.lang.String)
+  [INFO] [2016-09-14 00:45:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showIndex()
+  [INFO] [2016-09-14 00:45:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/cat/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.TbItemCatController.getCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:45:17][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:45:16 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:45:17][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:45:16 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:45:17][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2016-09-14 00:45:17][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+  [INFO] [2016-09-14 00:45:17][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization completed in 653 ms
+  [INFO] [2016-09-14 00:46:06][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+  [INFO] [2016-09-14 00:46:06][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Wed Sep 14 00:46:06 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:46:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:46:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-service.xml]
+  [INFO] [2016-09-14 00:46:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:46:07][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:46:07][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:46:07][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:46:07][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 1157 ms
+  [INFO] [2016-09-14 00:46:07][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization started
+  [INFO] [2016-09-14 00:46:07][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:46:07 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:46:07][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring/springmvc.xml]
+  [INFO] [2016-09-14 00:46:07][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.ContentCatController.getContentCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/update],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.updateContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/create],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.insertContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/{itemId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.pojo.TbItem com.taotao.controller.ItemController.getItemById(java.lang.Long)
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.pojo.EUDataGridResult com.taotao.controller.ItemController.getItemList(int,int)
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showIndex()
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/{page}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showPage(java.lang.String)
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/cat/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.TbItemCatController.getCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:46:07 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:46:07 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+  [INFO] [2016-09-14 00:46:08][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization completed in 686 ms
+  [WARN] [2016-09-14 00:46:22][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/item/param/list] in DispatcherServlet with name 'taotao-manager'
+  [INFO] [2016-09-14 00:46:22][com.taotao.aop.LogInvocation]log before:getItemList
+  [INFO] [2016-09-14 00:46:23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-09-14 00:46:23][com.taotao.aop.LogInvocation]log after:getItemList
+  [INFO] [2016-09-14 00:51:20][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+  [INFO] [2016-09-14 00:51:20][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Wed Sep 14 00:51:20 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:51:20][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:51:20][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-service.xml]
+  [INFO] [2016-09-14 00:51:20][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:51:20][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:51:20][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:51:20][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 1104 ms
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization started
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:51:21 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:51:21][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring/springmvc.xml]
+  [INFO] [2016-09-14 00:51:21][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/create],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.insertContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/update],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.updateContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.ContentCatController.getContentCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.pojo.EUDataGridResult com.taotao.controller.ItemController.getItemList(int,int)
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/{itemId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.pojo.TbItem com.taotao.controller.ItemController.getItemById(java.lang.Long)
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/{page}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showPage(java.lang.String)
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showIndex()
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/cat/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.TbItemCatController.getCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:51:21 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:51:21 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+  [INFO] [2016-09-14 00:51:21][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization completed in 699 ms
+  [INFO] [2016-09-14 00:51:56][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:51:56][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-service.xml]
+  [INFO] [2016-09-14 00:51:56][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:51:56][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Wed Sep 14 00:51:56 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:51:56][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:51:56][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:51:57][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-09-14 00:51:57][test.TestPageHelper]536563,new2 - ∞¢∂˚ø®Ãÿ (OT-927) Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-09-14 00:51:57][test.TestPageHelper]562379,new8- »˝–« W999 ∫⁄…´ µÁ–≈3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-09-14 00:51:57][test.TestPageHelper]605616,∞¢∂˚ø®Ãÿ (OT-979) ±˘¥®∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:51:57][test.TestPageHelper]635906,∞¢∂˚ø®Ãÿ (OT-927) µ•µÁ∞Ê Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-09-14 00:51:57][test.TestPageHelper]679532,∞¢∂˚ø®Ãÿ (OT-986+) √µ∫Ï AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:51:57][test.TestPageHelper]679533,∞¢∂˚ø®Ãÿ (OT-986+) Í◊ Ø∫⁄ AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:51:57][test.TestPageHelper]691300,»˝–« B9120 Ó—ª“…´ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-09-14 00:51:57][test.TestPageHelper]738388,»˝–« Note II (N7100) ‘∆ Ø∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:51:57][test.TestPageHelper]741524,»˝–« Note II (N7100) Ó—Ωª“ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:51:57][test.TestPageHelper]816448,»˝–« Note II (N7100) ◊Í Ø∑€ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:51:57][test.TestPageHelper]º«¬ºÃı ˝£∫3096
+  [INFO] [2016-09-14 00:51:57][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Wed Sep 14 00:51:56 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:51:57][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+  [INFO] [2016-09-14 00:52:18][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+  [INFO] [2016-09-14 00:52:18][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Wed Sep 14 00:52:18 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:52:18][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:52:18][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-service.xml]
+  [INFO] [2016-09-14 00:52:18][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:52:18][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:52:18][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:52:18][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:52:19][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 1118 ms
+  [INFO] [2016-09-14 00:52:19][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization started
+  [INFO] [2016-09-14 00:52:19][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:52:19 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:52:19][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring/springmvc.xml]
+  [INFO] [2016-09-14 00:52:19][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:52:19][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/update],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.updateContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:52:19][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/create],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.insertContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:52:19][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.ContentCatController.getContentCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:52:19][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.pojo.EUDataGridResult com.taotao.controller.ItemController.getItemList(int,int)
+  [INFO] [2016-09-14 00:52:19][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/{itemId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.pojo.TbItem com.taotao.controller.ItemController.getItemById(java.lang.Long)
+  [INFO] [2016-09-14 00:52:19][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/{page}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showPage(java.lang.String)
+  [INFO] [2016-09-14 00:52:19][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showIndex()
+  [INFO] [2016-09-14 00:52:19][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/cat/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.TbItemCatController.getCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:52:20][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:52:19 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:52:20][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:52:19 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:52:20][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2016-09-14 00:52:20][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+  [INFO] [2016-09-14 00:52:20][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization completed in 693 ms
+  [INFO] [2016-09-14 00:53:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:53:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-service.xml]
+  [INFO] [2016-09-14 00:53:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/C:/Users/gui/workspace/taotaoshoping/taotao-manager/taotao-manager-web/target/classes/spring/applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:53:06][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Wed Sep 14 00:53:06 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:53:06][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:53:06][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:53:07][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-09-14 00:53:08][test.TestPageHelper]536563,new2 - ∞¢∂˚ø®Ãÿ (OT-927) Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-09-14 00:53:08][test.TestPageHelper]562379,new8- »˝–« W999 ∫⁄…´ µÁ–≈3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-09-14 00:53:08][test.TestPageHelper]605616,∞¢∂˚ø®Ãÿ (OT-979) ±˘¥®∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:53:08][test.TestPageHelper]635906,∞¢∂˚ø®Ãÿ (OT-927) µ•µÁ∞Ê Ãø∫⁄ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝
+  [INFO] [2016-09-14 00:53:08][test.TestPageHelper]679532,∞¢∂˚ø®Ãÿ (OT-986+) √µ∫Ï AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:53:08][test.TestPageHelper]679533,∞¢∂˚ø®Ãÿ (OT-986+) Í◊ Ø∫⁄ AK47 º”«ø∞Ê ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:53:08][test.TestPageHelper]691300,»˝–« B9120 Ó—ª“…´ ¡™Õ®3G ÷ª˙ À´ø®À´¥˝À´Õ®
+  [INFO] [2016-09-14 00:53:08][test.TestPageHelper]738388,»˝–« Note II (N7100) ‘∆ Ø∞◊ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:53:08][test.TestPageHelper]741524,»˝–« Note II (N7100) Ó—Ωª“ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:53:08][test.TestPageHelper]816448,»˝–« Note II (N7100) ◊Í Ø∑€ ¡™Õ®3G ÷ª˙
+  [INFO] [2016-09-14 00:53:08][test.TestPageHelper]º«¬ºÃı ˝£∫3096
+  [INFO] [2016-09-14 00:53:08][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@144fc21: startup date [Wed Sep 14 00:53:06 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:53:08][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+  [INFO] [2016-09-14 00:53:57][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+  [INFO] [2016-09-14 00:53:57][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Wed Sep 14 00:53:57 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:53:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:53:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-service.xml]
+  [INFO] [2016-09-14 00:53:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:53:57][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:53:57][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:53:57][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 1159 ms
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization started
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:53:58 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:53:58][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring/springmvc.xml]
+  [INFO] [2016-09-14 00:53:58][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.ContentCatController.getContentCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/create],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.insertContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/update],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.updateContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.pojo.EUDataGridResult com.taotao.controller.ItemController.getItemList(int,int)
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/{itemId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.pojo.TbItem com.taotao.controller.ItemController.getItemById(java.lang.Long)
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showIndex()
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/{page}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showPage(java.lang.String)
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/cat/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.TbItemCatController.getCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:53:58 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:53:58 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+  [INFO] [2016-09-14 00:53:58][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization completed in 655 ms
+  [INFO] [2016-09-14 00:57:14][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+  [INFO] [2016-09-14 00:57:14][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Wed Sep 14 00:57:14 CST 2016]; root of context hierarchy
+  [INFO] [2016-09-14 00:57:14][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-dao.xml]
+  [INFO] [2016-09-14 00:57:15][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-service.xml]
+  [INFO] [2016-09-14 00:57:15][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\spring\applicationContext-trans.xml]
+  [INFO] [2016-09-14 00:57:15][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\db.properties]
+  [INFO] [2016-09-14 00:57:15][org.springframework.context.support.PropertySourcesPlaceholderConfigurer]Loading properties file from file [C:\Users\gui\workspace\taotaoshoping\taotao-manager\taotao-manager-web\target\classes\properties\log4j.properties]
+  [INFO] [2016-09-14 00:57:15][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 1166 ms
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization started
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:57:16 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:57:16][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring/springmvc.xml]
+  [INFO] [2016-09-14 00:57:16][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.ContentCatController.getContentCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/create],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.insertContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/content/category/update],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.util.TaotaoResult com.taotao.controller.ContentCatController.updateContnetCategory(java.lang.Long,java.lang.String)
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/{itemId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.pojo.TbItem com.taotao.controller.ItemController.getItemById(java.lang.Long)
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.taotao.common.pojo.EUDataGridResult com.taotao.controller.ItemController.getItemList(int,int)
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/{page}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showPage(java.lang.String)
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.taotao.controller.PageController.showIndex()
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/item/cat/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.taotao.common.pojo.EUTreeNode> com.taotao.controller.TbItemCatController.getCatList(java.lang.Long)
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:57:16 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-manager-servlet': startup date [Wed Sep 14 00:57:16 CST 2016]; parent: Root WebApplicationContext
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**/] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+  [INFO] [2016-09-14 00:57:16][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'taotao-manager': initialization completed in 695 ms
+  [INFO] [2016-09-14 00:57:29][com.taotao.aop.LogInvocation]log before:getItemList
+  [INFO] [2016-09-14 00:57:29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+  [INFO] [2016-09-14 00:57:29][com.taotao.aop.LogInvocation]log after:getItemList
+  

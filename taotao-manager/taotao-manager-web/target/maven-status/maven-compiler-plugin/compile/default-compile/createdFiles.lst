@@ -1,0 +1,4 @@
+com\taotao\controller\ItemController.class
+com\taotao\controller\TbItemCatController.class
+com\taotao\controller\ContentCatController.class
+com\taotao\controller\PageController.class

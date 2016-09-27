@@ -1,0 +1,7 @@
+com\taotao\service\TbItemCatService.class
+com\taotao\service\ContentCatService.class
+com\taotao\service\TbItemService.class
+com\taotao\service\impl\ContentCatServiceImpl.class
+com\taotao\service\impl\TbItemCatServiceImpl.class
+com\taotao\service\impl\TbItemServiceImpl.class
+com\taotao\aop\LogInvocation.class
